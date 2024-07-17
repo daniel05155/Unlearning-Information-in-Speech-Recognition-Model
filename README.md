@@ -1,6 +1,6 @@
 # Unlearning-Information-in-Speech-Recognition-Model
 
-Nowadays,machine learning systems store a vast amount of training data. 
+Nowadays, machine learning systems store a vast amount of training data. 
 However, due to model inversion or membership inference attacks, certain private information from the training dataset may be exposed.
 Although deleting data from back-end databases ought to be simple, doing so is insufficient when it comes to artificial intelligence (AI) because machine learning models frequently retain historical data. 
 To address the above problem, we require a novel method known as machine unlearning, which enables deep learning models to forget about specific data following the training stage. 
